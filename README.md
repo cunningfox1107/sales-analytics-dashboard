@@ -5,6 +5,7 @@ The dataset covers months, quarters, categories, subcategories, and product name
 # An interactive Power BI dashboard was developed to visualize performance and support data-driven decision-making.
 
 # 📂 Dataset Information
+
 ●Timeframe: 2014–2017
 
 ●Geographies: Denmark, Germany, Copenhagen
@@ -26,12 +27,15 @@ The dataset covers months, quarters, categories, subcategories, and product name
 ●Interactive slicers & filters for dynamic exploration
 
 # 🛠 Tools & Technologies
+
 ●Microsoft Power BI – Dashboard development & visualization
 
 ●Excel/CSV – Dataset storage & preprocessing
 
 # 🚀 Key Insights
+
 The dashboard enables users to:
+
 ●Identify growth & decline in sales trends over 4 years.
 
 ●Compare performance across countries.
