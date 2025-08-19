@@ -47,4 +47,5 @@ The dashboard enables users to:
 ●Pinpoint new market opportunities.
 
 
+<img width="1260" height="719" alt="Report_shot" src="https://github.com/user-attachments/assets/8313b7f9-38bd-4905-ac9e-2c0ed9e11ad0" />
 
